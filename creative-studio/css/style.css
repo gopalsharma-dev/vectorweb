@@ -3,12 +3,12 @@
 ====================================== */
 
 /*
-    Theme Name: MegaOne
+    Theme Name: 
     Theme URI:
-    Author: Themes Industry
+    Author: 
     Author URI:
-    Description: One Page Parallax Template
-    Tags: one page, multipurpose, parallax, creative, html5
+    Description: 
+    Tags: 
 */
 
 /* ===================================
@@ -433,6 +433,12 @@ a.image{
 }
 .bg-dark {
     background-color: #1d1d21 !important;
+}
+.bg-turquoise{
+    background-color:turquoise ;
+}
+.bg-green{
+    background-color: #91b11b;
 }
 
 /* overlay */
